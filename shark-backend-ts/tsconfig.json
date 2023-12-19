@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "NodeNext",
+    "moduleResolution": "nodenext",
+    "baseUrl": "./",
+    "paths": {
+      "utils/*": ["src/utils/*"],
+      "enums/*": ["src/enums/*"],
+      "types/*": ["src/types/*"],
+      "@/*": ["src/*"]
+    },
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "experimentalDecorators": true,
+    "strict": false,
+    "skipLibCheck": true
+  }
+}
