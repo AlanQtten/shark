@@ -1,6 +1,6 @@
 export default {
   host: 'localhost',
   user: 'root',
-  password: 'Malio4735',
+  password: '12345678',
   database: 'shark',
 };
